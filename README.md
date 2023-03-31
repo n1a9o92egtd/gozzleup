@@ -1,4 +1,4 @@
-# goIosForMacCompileSh
+# GoForMacOSiOS
 
 ```
 #!/bin/bash
