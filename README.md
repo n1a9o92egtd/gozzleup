@@ -1,6 +1,7 @@
 # goIosForMacCompileSh
 
-```#!/bin/bash
+```
+#!/bin/bash
 
 # 指定Go编译器路径和应用程序名称
 export GOPATH=$HOME/go
