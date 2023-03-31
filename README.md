@@ -1,6 +1,6 @@
 # goIosForMacCompileSh
 
-`#!/bin/bash
+```#!/bin/bash
 
 # 指定Go编译器路径和应用程序名称
 export GOPATH=$HOME/go
@@ -34,4 +34,4 @@ scp root@${IP_ADDRESS}:/var/root/app-list.txt app-list.txt
 # 删除编译的可执行文件和Go模块
 rm $APP_NAME
 rm go.mod
-rm go.sum`
+rm go.sum
